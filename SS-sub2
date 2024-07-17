@@ -96,11 +96,11 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "🇳🇱 kitkat⁹ @An0nymousteam § 0",
-        "🇱🇺 LU-@An0nymousteam § 1",
-        "🇪🇸 ES-@An0nymousteam § 2",
-        "🇩🇪 DE-@An0nymousteam § 3",
-        "🇹🇷  kitkat⁴ @An0nymousteam § 4"
+        "🇳🇱 kitkat⁹ @Shaycom § 0",
+        "🇱🇺 LU-@Shaycom § 1",
+        "🇪🇸 ES-@Shaycom § 2",
+        "🇩🇪 DE-@Shaycom § 3",
+        "🇹🇷  kitkat⁴ @Shaycom § 4"
       ],
       "default": "auto"
     },
@@ -108,11 +108,11 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "🇳🇱 kitkat⁹ @An0nymousteam § 0",
-        "🇱🇺 LU-@An0nymousteam § 1",
-        "🇪🇸 ES-@An0nymousteam § 2",
-        "🇩🇪 DE-@An0nymousteam § 3",
-        "🇹🇷  kitkat⁴ @An0nymousteam § 4"
+        "🇳🇱 kitkat⁹ @Shaycom § 0",
+        "🇱🇺 LU-@Shaycom § 1",
+        "🇪🇸 ES-@Shaycom § 2",
+        "🇩🇪 DE-@Shaycom § 3",
+        "🇹🇷  kitkat⁴ @Shaycom § 4"
       ],
       "url": "http://connectivitycheck.gstatic.com/generate_204",
       "interval": "10m0s",
@@ -120,7 +120,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇳🇱 kitkat⁹ @An0nymousteam § 0",
+      "tag": "🇳🇱 kitkat⁹ @Shaycom § 0",
       "server": "109.201.152.181",
       "server_port": 443,
       "method": "aes-128-cfb",
@@ -128,7 +128,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇱🇺 LU-@An0nymousteam § 1",
+      "tag": "🇱🇺 LU-@Shaycom § 1",
       "server": "92.38.163.53",
       "server_port": 989,
       "method": "aes-256-cfb",
@@ -136,7 +136,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇪🇸 ES-@An0nymousteam § 2",
+      "tag": "🇪🇸 ES-@Shaycom § 2",
       "server": "5.188.181.201",
       "server_port": 9031,
       "method": "aes-256-cfb",
@@ -144,7 +144,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇩🇪 DE-@An0nymousteam § 3",
+      "tag": "🇩🇪 DE-@Shaycom § 3",
       "server": "80.92.204.106",
       "server_port": 9000,
       "method": "aes-256-cfb",
@@ -152,7 +152,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇹🇷  kitkat⁴ @An0nymousteam § 4",
+      "tag": "🇹🇷  kitkat⁴ @Shaycom § 4",
       "server": "45.89.52.66",
       "server_port": 9001,
       "method": "aes-256-cfb",
